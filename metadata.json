@@ -1,0 +1,6 @@
+{
+  "name": "간편 업무 관리자 (Todo Manager)",
+  "description": "로컬 브라우저에 안전하게 저장되는 깔끔하고 직관적인 단일 파일 업무 및 할 일 관리 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
